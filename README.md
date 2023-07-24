@@ -4,7 +4,7 @@ Projeto do módulo 3 do curso de desenvolvimento de sistemas
 Lavoura, pão feito em casa
 Status: desenvolvimento.
 
-As tecnologias aplicadas serão My Sql e java.
+As tecnologias aplicadas serão My Sql, java, git e github.
 
 Time de desenvolvedores será eu.
 
